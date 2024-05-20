@@ -39,8 +39,9 @@ You can customize the behavior of the bot by modifying the parameters in the `co
 
 ## Credits
 
-- Author: [@WinNode](https://twitter.com/WinNode)
+- Author: [@WinNode](https://t.me/Winnodexx)
 - Support: 0xde260429ef7680c7a43e855b5fcf619948f34e2a
+- Note : other Bot PM me
 
 
 
